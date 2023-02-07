@@ -9,4 +9,7 @@ void main() {
   print(age);
   print(height);
   print(rainedToday);
+
+  List<String> frutas = ["Maçã", "Pera", "Uva", "Tomate"];
+  print(frutas);
 }
